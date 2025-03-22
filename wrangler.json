@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "sweet-bread-cab8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "af0c80df-2b97-41dd-9ab1-d6278099199e",
+      "database_name": "shy-frost-e027-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
